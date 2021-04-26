@@ -18,4 +18,5 @@ This script replaces word one after the word you specify
 
 At the end it should look like this:
   
+
 ![obraz](https://user-images.githubusercontent.com/60445182/116057036-b2282e80-a67e-11eb-9d8a-98de5724a056.png)
