@@ -11,12 +11,11 @@ This script replaces word one after the word you specify
 
 3. You specify the word to put after that word.
 
-![obraz](https://user-images.githubusercontent.com/60445182/116052171-a84ffc80-a679-11eb-84c7-5f0407e5b015.png)
+![obraz](https://user-images.githubusercontent.com/60445182/116056986-a76d9980-a67e-11eb-8dac-ed2e99e629a3.png)
 
 4. Your output will be printed in console and the output.txt will be created with your text.
   
 
 At the end it should look like this:
   
-  
-![obraz](https://user-images.githubusercontent.com/60445182/116052317-c9185200-a679-11eb-8e0d-ec5586e2ae96.png)
+![obraz](https://user-images.githubusercontent.com/60445182/116057036-b2282e80-a67e-11eb-9d8a-98de5724a056.png)
