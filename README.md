@@ -14,7 +14,7 @@ This script replaces word one after the word you specify
 ![obraz](https://user-images.githubusercontent.com/60445182/116052171-a84ffc80-a679-11eb-84c7-5f0407e5b015.png)
 
 4. Your output will be printed in console and the output.txt will be created with your text.
-
+  
 
 At the end it should look like this:
   
